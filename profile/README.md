@@ -1,6 +1,6 @@
 # AWESOMEPIECE by AWESOMEPEOPLE
 
-![cover](./cover.png)
+![cover](https://github.com/Awesomepiece/.github/blob/main/profile/cover.png)
 
 ### 🤗 [어썸피스 홈페이지](https://awesomepiece.com)로 놀러오세요!!
 
